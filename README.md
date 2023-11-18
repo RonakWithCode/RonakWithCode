@@ -10,11 +10,16 @@
 
 🌐 Explore more about my projects on my [website](https://crazy-studio-website.web.app/), where you can find previews and details.
 
+## 🌟 Featured Project Preview
+![E-commerce Grocery App](link-to-image-grocery-app)
+
 ## 📱 Connect with Me
 - Instagram: [Comedy Fanny King](https://www.instagram.com/comedy_fanny_king/)
 - Twitter: [Flow Single Sign On](https://twitter.com/i/flow/single_sign_on)
 
 ## 📧 Get in Touch
 Feel free to reach out via email at [ronakjaing0@gmail.com](mailto:ronakjaing0@gmail.com).
+
+🔗 Check out my latest [E-commerce Grocery App](link-to-grocery-app-demo) demo!
 
 Let's code, create, and learn together! ✨
