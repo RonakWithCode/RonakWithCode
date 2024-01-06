@@ -14,7 +14,7 @@
 ![E-commerce Grocery App](link-to-image-grocery-app)
 
 ## 📱 Connect with Me
-- Instagram: [Comedy Fanny King](https://www.instagram.com/comedy_fanny_king/)
+- Instagram: [RONAK](https://www.instagram.com/justtronak/)
 - Twitter: [Flow Single Sign On](https://twitter.com/i/flow/single_sign_on)
 
 ## 📧 Get in Touch
